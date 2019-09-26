@@ -1,5 +1,5 @@
 name = 'Bob'
-age = 3000
+age = 2000
 if name == 'Alice':
     print('Hi Alice')
 elif age < 12:
